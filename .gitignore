@@ -1,0 +1,14 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.classpath
+.factorypath
+.project
+/.settings/
+
+# /src/main/resources/
+# /airbnbOutput/
+# /output/
+# mvnw
+# mvnw.cmd
